@@ -62,18 +62,45 @@
     color: black;
     font-family: sans-serif;
     font-size: 22px;
-    width: 456px;
+    width: 500px;
+    font-weight: bold;
+}
+.artikkel2 {
+    margin-left: 115px;
+    width: 500px;
+}
+.AD {
+    margin-left: 45px;
+    display: flex;
+}
+.FBB {
+    background-color: white;
+    border: white;
+}
+.FBBNUM {
+    padding-bottom: 10px;
 }
 .artikkelnum {
     color: #FA004F;
+    text-decoration: none;
+    font-size: 22px;
+    font-weight: bold;
+    text-decoration-color: white;
 }
 .EA {
-    max-width: 40%;
-    padding-left: 35px;
+    padding-left: 45px;
+    padding-top: 30px;
+    display: flex;
+    justify-items: space-between;
 }
 .piltüks {
-    height: 250px;
-    width: 456px;
+    height: 400px;
+    width: 550px;
+}
+.piltkaks {
+    margin-left: 65px;
+    width: 400px;
+    width: 550px;
 }
 .Riba {
     background-color: black;
