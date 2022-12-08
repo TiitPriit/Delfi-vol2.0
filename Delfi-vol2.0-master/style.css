@@ -96,6 +96,7 @@
 .piltüks {
     height: 400px;
     width: 550px;
+    aspect-ratio: 16/9;
 }
 .piltkaks {
     margin-left: 65px;
